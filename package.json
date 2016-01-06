@@ -1,0 +1,38 @@
+{
+  "name": "redux-todo",
+  "version": "1.0.0",
+  "description": "redux todo example",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.14.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.26",
+    "babel-preset-es2015": "^6.3.13",
+    "babelify": "^7.2.0",
+    "browser-sync": "^2.11.0",
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-notify": "^2.2.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Roylz/redux-todo.git"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "todo"
+  ],
+  "author": "Lu Zheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Roylz/redux-todo/issues"
+  },
+  "homepage": "https://github.com/Roylz/redux-todo#readme"
+}
